@@ -1,6 +1,6 @@
 from input_parser import parse_input
 
-in_ = parse_input("day2/part1.txt")
+in_ = parse_input("day2/part2.txt")
 
 horizontal = 0
 depth = 0
